@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated ML data
+embeddings.pkl
+data/facebank/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
